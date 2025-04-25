@@ -1,3 +1,4 @@
-module melvabout/go-play-interface
+module melvabout/go-play-pakages
+
 
 go 1.24.2
